@@ -59,13 +59,6 @@
       <version>6.0.0.Alpha6</version>
     </dependency>
 
-
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>jstl</artifactId>
-      <version>1.2</version>
-    </dependency>
-
     <!-- https://mvnrepository.com/artifact/org.thymeleaf/thymeleaf-spring5 -->
     <dependency>
       <groupId>org.thymeleaf</groupId>
